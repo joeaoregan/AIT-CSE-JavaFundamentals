@@ -2,3 +2,8 @@
 /bin/
 *.classpath
 *.project
+
+# Python
+venv/
+# MkDocs
+site/
