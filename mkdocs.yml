@@ -1,0 +1,94 @@
+site_name: AIT-CSE-JavaFundamentals
+docs_dir: docs
+site_dir: site
+
+copyright: Copyright &copy; 2026 Joe O'Regan
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/joeaoregan/
+    - icon: fontawesome/brands/github
+      link: https://github.com/joeaoregan
+    - icon: material/certificate
+      link: https://www.credly.com/users/joe-o-regan
+    - icon: simple/githubpages
+      link: https://joeaoregan.github.io/      
+
+theme:
+  icon:
+    admonition:
+      note: material/account
+      success: material/account
+      warning: material/account
+      danger: material/account
+  logo: images/logo.png
+  palette: 
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+  name: material
+  favicon: images/favicon.ico
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - toc.follow
+    - navigation.footer
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.path
+    - navigation.top
+
+nav:
+  - Home: 
+    - index.md
+    - External Links:    
+      - Portfolio Home: https://joeaoregan.github.io/
+      - Linkedin: https://www.linkedin.com/in/joeaoregan/
+      - GitHub: https://github.com/joeaoregan
+  - Labs:
+     - week 1:
+        - Hello World: wk1/hello-world.md
+        - Invoice App: wk1/invoice-app.md
+        - Invoice App v1: wk1/invoice-app-v1.md
+        - Area and Perimeter: wk1/area-and-perimeter.md
+        - Grade Converter: wk1/grade-converter.md
+        - Invoice App v2: wk1/invoice-app-v2.md
+     - week 2: wk2/ex-a1.md
+     - week 4: wk4/index.md
+  - Assessments:
+    - Assessment 1 Golf Resort: assessment1/index.md
+    - Assessment 2 Maths Methods: assessment2/index.md
+    - Assessment 3 Dice Roller: assessment3/index.md
+    - Assessment 4 Card Game: assessment4/index.md
+  
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - def_list
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  
+  - material.extensions.preview:
+      configurations:
+        - targets:
+            include:
+              - pc-based-assessment/*
+              - index.md
+
+repo_url: https://github.com/joeaoregan/AIT-CSE-JavaFundamentals
+repo_name: GitHub
+
+site_url: https://joeaoregan.github.io/AIT-CSE-JavaFundamentals

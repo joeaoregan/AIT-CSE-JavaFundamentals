@@ -7,12 +7,19 @@ Time Allowed: 1hr 40 mins
 Upload your AssessmentTwo.java file to moodle. Make sure that the code you submit compiles. Code containing compilation errors may attract zero marks.  
 NB:- Make sure you upload the correct files. No need for error checking on input values.
 
-1. Make a new package called `com.ait.assessment`.
-2. Download the start file **AssessmentTwo.java** from moodle.
-  - ▾ 📂 src
-    - ▾ 📦 com.ait.assessment
-      - > 📄 AssessmentTwo.java
-3. Complete the following methods in the code.
+#### 1. Create Package
+
+Make a new package called `com.ait.assessment`.
+    - ▾ 📂 src
+      - ▾ 📦 com.ait.assessment
+        - > 📄 AssessmentTwo.java
+#### 2. Download Start File
+
+Download the start file **AssessmentTwo.java** from moodle.
+
+#### 3. Create Methods
+
+Complete the following methods in the code.
 
    a. `multiplicationTableFor`. This method accepts no arguments and returns nothing. Using a Scanner object `sc` (which is declared as static inside the class, but outside of all of the methods, including multiplicationTableFor), take in a value of type `int` from the user. Use a `for` loop to output a multiplication table for the value entered as shown. Call the method from `main()`
 

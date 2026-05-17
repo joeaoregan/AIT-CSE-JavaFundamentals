@@ -20,4 +20,4 @@ main::swimmersCountry is USA
 
 ---
 
-[MethodExercises.java](../../src/ait/java/wk4/MethodExercises.java)
+[MethodExercises.java](https://github.com/joeaoregan/AIT-CSE-JavaFundamentals/blob/master/src/ait/java/wk4/MethodExercises.java)

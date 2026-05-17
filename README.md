@@ -20,7 +20,7 @@ Weekly labs and assignments for Java Fundamentals module
 
 [GolfResort.java](src/ait/java/assessment1/GolfResort.java)
 
-#### Assessment 2 Loops  
+#### Assessment 2 Maths Methods  
 
 [AssessmentTwo.java](src/ait/java/assessment2/AssessmentTwo.java)
 
@@ -32,7 +32,7 @@ Weekly labs and assignments for Java Fundamentals module
 [PairOfDice.java](src/com/ait/game/PairOfDice.java)  
 [Player.java](src/com/ait/game/Player.java)
 
-#### Assessment 4  
+#### Assessment 4 Card Game
 
 [CardGame.java](src/ait/java/assessment4/CardGame.java)  
 [Player.java](src/ait/java/assessment4/Player.java)
