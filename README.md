@@ -11,7 +11,28 @@
 
 **Student Name**: Joe O'Regan  
 **Student Number**: A00258304  
-**Course**: Certificate in Software Engineering (Level 8)
+**Course**: Certificate in Software Engineering (Level 8)  
 **Module**: Java Fundamentals
 
 Weekly labs and assignments for Java Fundamentals module
+
+#### Assessment 1 Golf Resort  
+
+[GolfResort.java](src/ait/java/assessment1/GolfResort.java)
+
+#### Assessment 2 Loops  
+
+[AssessmentTwo.java](src/ait/java/assessment2/AssessmentTwo.java)
+
+#### Assessment 3 Dice Roller App  
+
+[DiceRollerApp.java](src/com/ait/game/DiceRollerApp.java)  
+[Die.java](src/com/ait/game/Die.java)  
+[Game.java](src/com/ait/game/Game.java)  
+[PairOfDice.java](src/com/ait/game/PairOfDice.java)  
+[Player.java](src/com/ait/game/Player.java)
+
+#### Assessment 4  
+
+[CardGame.java](src/ait/java/assessment4/CardGame.java)  
+[Player.java](src/ait/java/assessment4/Player.java)
