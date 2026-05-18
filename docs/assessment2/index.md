@@ -149,3 +149,7 @@ What is the highest number you can draw?-->
 5
 Your odds are 1 in 10.0 . Good luck!
 ```
+
+---
+
+[AssessmentTwo.java](https://github.com/joeaoregan/AIT-CSE-JavaFundamentals/blob/master/src/ait/java/assessment2/AssessmentTwo.java)

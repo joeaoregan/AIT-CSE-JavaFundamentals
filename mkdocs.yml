@@ -58,15 +58,54 @@ nav:
       - Linkedin: https://www.linkedin.com/in/joeaoregan/
       - GitHub: https://github.com/joeaoregan
   - Labs:
-     - week 1:
-        - Hello World: wk1/hello-world.md
-        - Invoice App: wk1/invoice-app.md
-        - Invoice App v1: wk1/invoice-app-v1.md
-        - Area and Perimeter: wk1/area-and-perimeter.md
-        - Grade Converter: wk1/grade-converter.md
-        - Invoice App v2: wk1/invoice-app-v2.md
-     - week 2: wk2/ex-a1.md
-     - week 4: wk4/index.md
+    - Week 1: 
+      - Week 1 Overview: wk1/index.md
+      - Hello World: wk1/hello-world.md
+      - Invoice App: wk1/invoice-app.md
+      - Invoice App v1: wk1/invoice-app-v1.md
+      - Area and Perimeter: wk1/area-and-perimeter.md
+      - Grade Converter: wk1/grade-converter.md
+      - Invoice App v2: wk1/invoice-app-v2.md
+    - Week 2: 
+      - Week 2 Overview: wk2/index.md
+      - Exercise A1: wk2/ex-a1.md
+      - Exercise A2: wk2/ex-a2.md
+      - Exercise A3: wk2/ex-a3.md
+      - Exercise A4: wk2/ex-a4.md
+      - Exercise A5: wk2/ex-a5.md
+      - Exercise B1: wk2/ex-b1.md
+      - Exercise B2: wk2/ex-b2.md
+      - Exercise B3: wk2/ex-b3.md
+      - Exercise B4: wk2/ex-b4.md
+      - Exercise B5: wk2/ex-b5.md
+    - Week 3: 
+      - Week 3 Overview: wk3/index.md
+      - If Exercises: wk3/if-exercises.md
+      - Switch Exercises: wk3/switch-exercises.md
+      - While Exercises: wk3/while-exercises.md
+    - Week 4: 
+      - Week 4 Overview: wk4/index.md
+      - Method Exercises: wk4/method-exercises.md
+    - Week 5:
+      - Week 5 Overview: wk5/index.md
+      - No Constructor: wk5/no-constructor.md
+      - Simple Constructor: wk5/simple-constructor.md
+      - Constructor with Args: wk5/constructor-with-args.md
+      - Overloading: wk5/overloading.md
+    - Week 6:
+      - Week 6 Overview: wk6/index.md
+      - Person Family: wk6/person-family.md
+      - Customer Bank: wk6/customer-bank.md
+      - Biscuit Factory: wk6/biscuit-factory.md
+      - Bus Depot: wk6/bus-depot.md
+      - Car Factory: wk6/car-factory.md
+    - Week 7:
+      - Week 7 Overview: wk7/index.md
+      - Arrays: wk7/arrays.md
+    - Week 9:
+      - Week 9 Overview: wk9/index.md
+      - Arrays 2: wk9/arrays-exercise-2.md
+
   - Assessments:
     - Assessment 1 Golf Resort: assessment1/index.md
     - Assessment 2 Maths Methods: assessment2/index.md
