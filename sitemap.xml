@@ -2,66 +2,198 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/</loc>
-         <lastmod>2026-05-17</lastmod>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
          <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/assessment1/</loc>
-         <lastmod>2026-05-17</lastmod>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
          <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/assessment2/</loc>
-         <lastmod>2026-05-17</lastmod>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
          <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/assessment3/</loc>
-         <lastmod>2026-05-17</lastmod>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
          <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/assessment4/</loc>
-         <lastmod>2026-05-17</lastmod>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
          <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk1/</loc>
-         <lastmod>2026-05-17</lastmod>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
          <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk1/area-and-perimeter/</loc>
-         <lastmod>2026-05-17</lastmod>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
          <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk1/grade-converter/</loc>
-         <lastmod>2026-05-17</lastmod>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
          <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk1/hello-world/</loc>
-         <lastmod>2026-05-17</lastmod>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
          <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk1/invoice-app-v1/</loc>
-         <lastmod>2026-05-17</lastmod>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
          <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk1/invoice-app-v2/</loc>
-         <lastmod>2026-05-17</lastmod>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
          <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk1/invoice-app/</loc>
-         <lastmod>2026-05-17</lastmod>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
          <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk2/</loc>
-         <lastmod>2026-05-17</lastmod>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
          <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk2/ex-a1/</loc>
-         <lastmod>2026-05-17</lastmod>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
          <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk2/ex-a2/</loc>
-         <lastmod>2026-05-17</lastmod>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk2/ex-a3/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk2/ex-a4/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk2/ex-a5/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk2/ex-b1/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk2/ex-b2/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk2/ex-b3/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk2/ex-b4/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk2/ex-b5/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk3/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk3/for-exercises/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk3/if-exercises/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk3/switch-exercises/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk3/while-exercises/</loc>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
          <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk4/</loc>
-         <lastmod>2026-05-17</lastmod>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk4/do-while-exercises/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk4/method-exercises/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk5/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk5/constructor-with-args/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk5/counter-static/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk5/counter/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk5/no-constructor/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk5/overloading/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk5/phone/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk5/simple-constructor/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk6/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk6/biscuit-factory/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk6/bus-depot/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk6/car-factory/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk6/customer-bank/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk6/person-family/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk7/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk7/arrays/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk9/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://joeaoregan.github.io/AIT-CSE-JavaFundamentals/wk9/arrays-exercise-2/</loc>
+         <lastmod>2026-05-18</lastmod>
     </url>
 </urlset>
